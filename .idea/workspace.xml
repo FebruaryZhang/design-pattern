@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c71ac0dc-ce65-427b-9df4-4de34955ad63" name="Default Changelist" comment="" />
+    <list default="true" id="c71ac0dc-ce65-427b-9df4-4de34955ad63" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/deployment.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -9,6 +12,9 @@
   </component>
   <component name="ComposerSettings">
     <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1r5wVIMnFd1fBS74rnEIYjgFmIt" />
   <component name="ProjectViewState">
@@ -37,6 +43,8 @@
       <option name="presentableId" value="Default" />
       <updated>1618279282078</updated>
       <workItem from="1618279283725" duration="8210000" />
+      <workItem from="1637549725254" duration="259000" />
+      <workItem from="1637550833719" duration="2945000" />
     </task>
     <servers />
   </component>
@@ -44,22 +52,13 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="320" y="99" key="#Deployment" timestamp="1618282940872">
-      <screen x="0" y="25" width="1440" height="823" />
+    <state x="447" y="232" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1637560557358">
+      <screen x="0" y="25" width="1440" height="821" />
     </state>
-    <state x="320" y="99" key="#Deployment/-229.-1055.1920.1055/0.25.1440.823@0.25.1440.823" timestamp="1618282940872" />
-    <state x="304" y="86" key="#SSH_Configurations" timestamp="1618282922460">
-      <screen x="0" y="25" width="1440" height="823" />
+    <state x="447" y="232" key="#com.intellij.fileTypes.FileTypeChooser/-229.-1055.1920.1055/0.25.1440.821@0.25.1440.821" timestamp="1637560557358" />
+    <state x="541" y="359" key="NewPhpFileDialog" timestamp="1637560566895">
+      <screen x="0" y="25" width="1440" height="821" />
     </state>
-    <state x="304" y="86" key="#SSH_Configurations/-229.-1055.1920.1055/0.25.1440.823@0.25.1440.823" timestamp="1618282922460" />
-    <state x="757" y="468" key="NewPhpFileDialog" timestamp="1618293650879">
-      <screen x="0" y="25" width="1440" height="823" />
-    </state>
-    <state x="780" y="-487" key="NewPhpFileDialog/-229.-1055.1920.1055/0.25.1440.823@-229.-1055.1920.1055" timestamp="1618290761975" />
-    <state x="757" y="468" key="NewPhpFileDialog/-229.-1055.1920.1055/0.25.1440.823@0.25.1440.823" timestamp="1618293650879" />
-    <state x="626" y="193" key="ftp.server.browser" timestamp="1618282931075">
-      <screen x="0" y="25" width="1440" height="823" />
-    </state>
-    <state x="626" y="193" key="ftp.server.browser/-229.-1055.1920.1055/0.25.1440.823@0.25.1440.823" timestamp="1618282931075" />
+    <state x="541" y="359" key="NewPhpFileDialog/-229.-1055.1920.1055/0.25.1440.821@0.25.1440.821" timestamp="1637560566895" />
   </component>
 </project>
