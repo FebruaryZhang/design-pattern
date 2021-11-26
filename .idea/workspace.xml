@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c71ac0dc-ce65-427b-9df4-4de34955ad63" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/deployment.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/strategy/example.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,7 +44,9 @@
       <updated>1618279282078</updated>
       <workItem from="1618279283725" duration="8210000" />
       <workItem from="1637549725254" duration="259000" />
-      <workItem from="1637550833719" duration="2945000" />
+      <workItem from="1637550833719" duration="4032000" />
+      <workItem from="1637719046247" duration="855000" />
+      <workItem from="1637911173213" duration="231000" />
     </task>
     <servers />
   </component>
@@ -56,9 +58,9 @@
       <screen x="0" y="25" width="1440" height="821" />
     </state>
     <state x="447" y="232" key="#com.intellij.fileTypes.FileTypeChooser/-229.-1055.1920.1055/0.25.1440.821@0.25.1440.821" timestamp="1637560557358" />
-    <state x="541" y="359" key="NewPhpFileDialog" timestamp="1637560566895">
+    <state x="541" y="359" key="NewPhpFileDialog" timestamp="1637911308744">
       <screen x="0" y="25" width="1440" height="821" />
     </state>
-    <state x="541" y="359" key="NewPhpFileDialog/-229.-1055.1920.1055/0.25.1440.821@0.25.1440.821" timestamp="1637560566895" />
+    <state x="541" y="359" key="NewPhpFileDialog/-229.-1055.1920.1055/0.25.1440.821@0.25.1440.821" timestamp="1637911308744" />
   </component>
 </project>
